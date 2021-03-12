@@ -1,0 +1,32 @@
+.detail-info{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 20px;
+    background-color: darkslateblue;
+}
+.team-info{
+    padding-top: 50px;
+
+}
+.team-detail{
+    color: white
+}
+
+.description{
+    font-size: 3 rem;
+}
+.social-icon{
+    /* align-items: center; */
+    display: inline-block;
+   
+}
+.social-icon li{
+    list-style-type: none;
+    margin: 10px;
+    
+}
+.social-icon li a{
+    height: ;
+}
